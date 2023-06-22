@@ -30,7 +30,7 @@ public class Juego extends InterfaceJuego {
 
 	public Juego() {
 //Cargamos el entorno, Instanciamos objetos y les asignamos posiciones
-		this.entorno = new Entorno(this, "AstroMegaShip - Grupo N 4 - Lopez - Quintana - Gonzalez - V0.01", 800, 600);
+		this.entorno = new Entorno(this, "AstroMegaShip - Grupo N 4 - Lopez - Quintana - V0.01", 800, 600);
 		this.img = Herramientas.cargarImagen("FondoEspacial.gif");
 		this.megaShip = new MegaShip(entorno.ancho() / 2, entorno.alto() - 50);
 		this.disparo = new Disparo[1];
