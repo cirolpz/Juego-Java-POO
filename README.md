@@ -2,7 +2,7 @@
 -![Captura de pantalla 2024-12-07 011029](https://github.com/user-attachments/assets/3912102e-0560-4ada-a2da-47416ffb411a)
 -![Captura de pantalla 2024-12-07 010925](https://github.com/user-attachments/assets/2eabb002-b483-488e-b487-bd0c7237b390)
 
-  [![Video del Proyecto](https://img.youtube.com/vi/T1sufIcNDPY/maxresdefault.jpg)](https://youtu.be/watch?T1sufIcNDPY)
+  [![Video del Proyecto](https://img.youtube.com/vi/T1sufIcNDPY/maxresdefault.jpg)](https://youtu.be/watch?v=T1sufIcNDPY)
 
 - Este juego fue desarrollado en 3 meses a inicios del año 2023 en Java utilizando la librería de entorno. Fue creado para un programa proporcionado por la universidad para ayudar a niños con capacidades diferentes.
 
